@@ -6,12 +6,12 @@ HOW TO CREATE IN VIRTUAL ENV AS WINDOWS
 >>Enter in to floder
 >>Open cmd into current floder
 >>Check django version (python -m  django--version)
->>Create a virtual Env
+>>Create a virv Env
 >>>>cd env
 >>>>cd scripts
 >>>>acivate
 >>>>pip install django
->>Create projects (django -admin startproject projectname)
->>>>cd project name
+>>Create projects (django -admin startproject project_Test)
+>>>>cd project_test
 >>>>dir
 >>>>python.py runserver
