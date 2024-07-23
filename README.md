@@ -15,3 +15,4 @@ HOW TO CREATE IN VIRTUAL ENV AS WINDOWS
 >>>>cd project_test
 >>>>dir
 >>>>python.py runserver
+>>>>python manage.py startapp basicapp
