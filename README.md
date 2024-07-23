@@ -5,7 +5,7 @@ HOW TO CREATE IN VIRTUAL ENV AS WINDOWS
 >>Create floder
 >>Enter in to floder
 >>Open cmd into current floder
->>Check django version (python-n  django--version)
+>>Check django version (python -m  django--version)
 >>Create a virtual Env
 >>>>cd env
 >>>>cd scripts
